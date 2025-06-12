@@ -8,6 +8,7 @@
 - 🧪 Building hands-on projects to strengthen my real-world development skills
 - 💬 I enjoy talking about **Python**, **Django**,  **Database Design**, and **Version Control with Git**
 - 📬 Reach me at: [aroraarchie88@gmail.com](mailto:aroraarchie88@gmail.com)
+- ![Archie GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archie519&show_icons=true&theme=radical)
 
 
 
