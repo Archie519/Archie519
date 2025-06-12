@@ -27,6 +27,17 @@
 
 
 ## 🚧 Projects 
+🍽️ **Restaurant Management System**
+built with Django to handle orders, menus, and staff efficiently.Streamlines restaurant operations with user-friendly interfaces for admins and customers.
+
+
+
+
+
+
+
+
+
 
 
 
